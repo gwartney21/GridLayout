@@ -1,0 +1,52 @@
+body{
+  font-family: 'Karla', sans-serif;
+}
+
+.gridOne{
+  background-color: white;
+}
+.gridTwo{
+  background-color:	rgb(74, 190, 189);
+   height: 100%;
+}
+
+.gridThree{
+  background-color: rgb(43, 179, 177);
+}
+
+#callToAction{
+  color:rgb(66, 194, 186);
+}
+
+#seconedCallToAction{
+  color:rgb(203, 227, 88);
+}
+
+#ThirdCallToaction{
+  color: grey;
+}
+
+p{
+  color: rgb(180, 225, 228);
+}
+
+#secondaryCalltoaction{
+  colro:rgb(176, 226, 235);
+}
+
+#MontlySub{
+  color: white;
+}
+
+#pricing{
+  color: white;
+}
+
+#whyUs{
+  color: white;
+}
+
+#signUp{
+ background-color:rgb(203, 227, 88);
+ color: white;
+}
