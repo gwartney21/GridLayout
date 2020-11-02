@@ -1,13 +1,23 @@
+*{
+  box-sizing: border-box;
+}
+
 body{
   font-family: 'Karla', sans-serif;
+  margin: 25%;
+  padding: 0;
+  background-color: #f0eded;
+  box-shadow: 10px 10px 5px #888888;
 }
 
 .gridOne{
   background-color: white;
+  border-radius: 15px 15px 0 0;
 }
 .gridTwo{
   background-color:	rgb(74, 190, 189);
    height: 100%;
+   margin-top: -1.5em;
 }
 
 .gridThree{
@@ -16,14 +26,18 @@ body{
 
 #callToAction{
   color:rgb(66, 194, 186);
+  margin-left: 1em;
 }
 
 #seconedCallToAction{
   color:rgb(203, 227, 88);
+  margin-left: 1em;
 }
 
 #ThirdCallToaction{
   color: grey;
+  line-height: 1.6;
+  margin-left:1.6em;
 }
 
 p{
@@ -36,6 +50,7 @@ p{
 
 #MontlySub{
   color: white;
+  margin-left: 1em;
 }
 
 #pricing{
