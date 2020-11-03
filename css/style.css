@@ -18,10 +18,15 @@ body{
   background-color:	rgb(74, 190, 189);
    height: 100%;
    margin-top: -1.5em;
+   float:right;
+   clear: both;
+   height: 300px;
 }
 
 .gridThree{
   background-color: rgb(43, 179, 177);
+  float: left;
+  clear: both;
 }
 
 #callToAction{
