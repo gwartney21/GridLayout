@@ -16,17 +16,14 @@ body{
 }
 .gridTwo{
   background-color:	rgb(74, 190, 189);
-   height: 100%;
-   margin-top: -1.5em;
-   float:right;
-   clear: both;
-   height: 300px;
+  width: 100%;
+  margin-top: -1em;
 }
 
 .gridThree{
   background-color: rgb(43, 179, 177);
-  float: left;
-  clear: both;
+  width: 100%;
+  margin-top: -1em;
 }
 
 #callToAction{
@@ -69,4 +66,8 @@ p{
 #signUp{
  background-color:rgb(203, 227, 88);
  color: white;
+}
+
+.row{
+  display: flex;
 }
